@@ -27,3 +27,11 @@ Setelah terhubung melalui HUB, selanjutnya jaringan tersebut akan terhubung ke r
 •	Komputer (1)192.168.0.1, Komputer (2)192.168.0.2, Komputer (3)192.168.0.3, Komputer (4)192.168.0.4
  	Menggunakan swith dengan IP address 192.168.1.1   Disambungkan Pada Komputer dengan IP ADRESS
 •	Komputer (1)192.168.1.2, Komputer (2)192.168.1.3, Komputer (3)192.168.1.4 Dll.
+
+
+Enkripsi
+Teknik pengkodean data yang berfungsi untuk menjaga data / file baik didalam komputer maupun pada jalur komunikasi dari pemakai yang tidak dikehendaki (bertujuan mencuri data dll). Enkripsi diperlukan untuk menjaga kerahasiaan data agar tetap aman sebagai bentuk keamanan jaringan.
+Teknik Enkripsi
+•	DES (Data Encription Standard)
+•	RSA (Rivest Shamir Adelman)
+
