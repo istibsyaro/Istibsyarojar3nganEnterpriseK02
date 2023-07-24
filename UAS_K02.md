@@ -46,5 +46,16 @@ Beberapa Ancaman pada System Keamanan Jaringan
 - DNS Cache adalah memanfaatkan cache dari setiap server DNS yang merupakan tempat penyimpanan sementara data-data domain pada browser.
 
 
+Beberapa Ancaman lainnya pada System Keamanan Jaringan
+
+- Worm adalah program yang menyebar sendiri dengan cara mengirimkan dirinya sendiri ke sistem, hampir sama dengan virus.
+- Virus adalah program yang dapat menyisipkan dirinya sendiri ke obyek lainnya, seperti : file executable (berekstensi .exe) dan beberapa jenis dokumen yang digunakan (file nya dihacker).
+- Trojan merupakan software yang sangat berbahaya dan dapat merusak sebuah sistem atau jaringan.
+- Junk Mail adalah ancaman ini adalah dengan mengirim spam akan memperbesar kapasitas inbox email, sehingga pesan lain yang penting tidak dapat masuk karena kapasitas inbox telah penuh kiriman pesan berantai tersebut.
+- Vulnerability adalah suatu sistem yang memungkinkan seorang penyerang untuk melanggar integritas sistem tersebut. Kerentanan memungkinkan akibat lemahnya password, software bug, sebuah virus komputer atau malware, skrip kode injeksi, sebuah SQL injection atau kegagalan konfigurasi.
+- Hacking adalah suatu tindakan untuk memperoleh akses ke suatu sistem menggunakan kelemahan yang terdapat pada sistem itu sendiri . Sikap hacking dan kemampuan yang ada pada dasarnya harus mempelajari sendiri, seperti hal berikut :
+
+
+
 
 
