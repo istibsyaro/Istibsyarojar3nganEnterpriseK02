@@ -54,6 +54,13 @@ Beberapa Ancaman lainnya pada System Keamanan Jaringan
 - Junk Mail adalah ancaman ini adalah dengan mengirim spam akan memperbesar kapasitas inbox email, sehingga pesan lain yang penting tidak dapat masuk karena kapasitas inbox telah penuh kiriman pesan berantai tersebut.
 - Vulnerability adalah suatu sistem yang memungkinkan seorang penyerang untuk melanggar integritas sistem tersebut. Kerentanan memungkinkan akibat lemahnya password, software bug, sebuah virus komputer atau malware, skrip kode injeksi, sebuah SQL injection atau kegagalan konfigurasi.
 - Hacking adalah suatu tindakan untuk memperoleh akses ke suatu sistem menggunakan kelemahan yang terdapat pada sistem itu sendiri . Sikap hacking dan kemampuan yang ada pada dasarnya harus mempelajari sendiri, seperti hal berikut :
+Untuk mengetahui alur spesifikasinya dengan cara berikut.
+
+- Pertama kita setting mikrotiknya dengan menggunakan router 
+- Agar bisa melakukan konfigurasi MikroTik harus masuk ke router menggunakan Winbox. 
+- Setelah masuk ke router MikroTik dengan Winbox, cari menu *IP*  *Pool* dari menu sebelah kiri di Winbox. Tampilan IP Pool akan muncul, lalu hapus *IP Pool* server DHCP Anda. Jadi, tidak akan ada IP yang akan diberikan secara otomatis oleh server DHCP Anda untuk pengguna.
+- Selanjutnya klik menu *IP*  *DHCP Server*, pada tab *DHCP* klik dua kali pada server DHCP yang aktif dan tampilan DHCP server akan muncul. Di tab *Generic*, masih pada tampilan *DHCP server*, periksa pada bidang *Address Pool* dan ubah bidang tersebut menjadi *static-only*.
+
 
 
 
