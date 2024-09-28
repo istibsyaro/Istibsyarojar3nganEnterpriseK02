@@ -23,6 +23,18 @@ HUB merupakan sebuah peranti jaringan komputer yang berfungsi untuk menghubungka
 Dalam konteks pendistribusian jaringan komputer di perguruan tinggi Fakultas Teknik Universitas Nurul Jadid, HUB menjadi komponen penting dalam membentuk infrastruktur jaringan yang handal. Fungsi utama HUB adalah menghubungkan perangkat-perangkat dan kabel dari setiap node atau komputer ke satu titik pusat, sehingga memungkinkan beberapa komputer terhubung menjadi satu jaringan. Dengan menggunakan HUB, mahasiswa, dosen, dan karyawan dapat saling berkomunikasi dan berbagi sumber daya seperti printer atau file secara lebih mudah dan efisien.
 Setelah terhubung melalui HUB, selanjutnya jaringan tersebut akan terhubung ke router. Router bertindak sebagai penghubung antara jaringan lokal di perguruan tinggi dengan jaringan eksternal, seperti internet. Router memainkan peran penting dalam mengatur lalu lintas data, meneruskan paket data ke tujuan yang tepat, dan menjaga keamanan jaringan dengan menggunakan teknik seperti Network Address Translation (NAT) dan firewall.
 
+
+Enkripsi
+Teknik pengkodean data yang berfungsi untuk menjaga data / file baik didalam komputer maupun pada jalur komunikasi dari pemakai yang tidak dikehendaki (bertujuan mencuri data dll). Enkripsi diperlukan untuk menjaga kerahasiaan data agar tetap aman sebagai bentuk keamanan jaringan.
+
+
+Teknik Enkripsi
+•	DES (Data Encription Standard)
+•	RSA (Rivest Shamir Adelman)
+
+
+
+
  	(mengggunakan HUB dengan IP ADRESS 192.168.0.0   DIsambungkan Pada Komputer dengan IP ADRESS )
 •	Komputer (1)192.168.0.1, Komputer (2)192.168.0.2, Komputer (3)192.168.0.3, Komputer (4)192.168.0.4
  	Menggunakan swith dengan IP address 192.168.1.1   Disambungkan Pada Komputer dengan IP ADRESS
